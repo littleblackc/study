@@ -1,3 +1,3 @@
 # study
 
-test
+git clone http://
