@@ -1,3 +1,3 @@
 # study
 
-git clone http://
+git clone http://github.com/littleblackc/study.git
