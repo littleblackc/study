@@ -20,6 +20,12 @@ eg. merge dev code to maaster. get merge dev
 git status
 --10.check different
 git diff
+--11.
+git remote -v
+--12.update local code from remote
+git pull origin dev ----from branch dev
+git pull origin master ---from branch master
+
 
 
 
