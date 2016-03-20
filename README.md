@@ -25,6 +25,8 @@ git remote -v
 --12.update local code from remote
 git pull origin dev ----from branch dev
 git pull origin master ---from branch master
+--13.return previos version
+git checkout -- file
 
 
 
