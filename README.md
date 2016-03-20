@@ -33,7 +33,8 @@ git checkout -- file
 ssh-keygen -t rsa -C "haiyan.xu.vip@gmail.com"
 (3)add the key
 id_rsa.pub
-
+--15.change url(from https to ssh)
+git remote origin git@github.com:littleblackc/study.git
 
 
 
