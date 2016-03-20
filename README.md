@@ -1,6 +1,6 @@
 # study
---1.clone code
-git clone http://github.com/littleblackc/study.git
+--1.clone code</br>
+git clone http://github.com/littleblackc/study.git</br>
 --2.check branch
 git branch
 --3.create branch
@@ -35,7 +35,15 @@ ssh-keygen -t rsa -C "haiyan.xu.vip@gmail.com"
 id_rsa.pub
 --15.change url(from https to ssh)
 git remote origin git@github.com:littleblackc/study.git
---16.dev.1.2 test 
+--16.merge
+git merge --no-off -m "comments" branch
+--17.check log
+git log --graph --pretty=oneline --abbrev-commit
+18.fixed bug
+(1)git stash
+(2)git stash apply + git stash drop =git stash pop
+(3)git stash list
+
 
 
 
