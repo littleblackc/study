@@ -1,8 +1,8 @@
 # study
 --1.clone code</br>
 git clone http://github.com/littleblackc/study.git</br>
---2.check branch
-git branch
+--2.check branch</br>
+git branch</br>
 --3.create branch
 git branch name
 --4.go one branch
