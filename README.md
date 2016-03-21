@@ -3,13 +3,13 @@
 git clone http://github.com/littleblackc/study.git</br>
 --2.check branch</br>
 git branch</br>
---3.create branch
-git branch name
---4.go one branch
---5.create branch and go one branch eq 3 and 4
-git checkout -b name
---6.add new file
-git add file 
+--3.create branch</br>
+git branch name</br>
+--4.go one branch</br>
+--5.create branch and go one branch eq 3 and 4</br>
+git checkout -b name</br>
+--6.add new file</br>
+git add file</br>
 --7.commit
 git commit -m "comments"
 --8.merge branch
@@ -19,7 +19,7 @@ eg. merge dev code to maaster. get merge dev
 git status
 --10.check different
 git diff
---11.
+--11.test 
 git remote -v
 --12.update local code from remote
 git pull origin dev ----from branch dev
