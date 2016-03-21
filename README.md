@@ -10,14 +10,14 @@ git branch name</br>
 git checkout -b name</br>
 --6.add new file</br>
 git add file</br>
---7.commit
-git commit -m "comments"
---8.merge branch
-git merge branch name 
-eg. merge dev code to maaster. get merge dev
---9.check status
-git status
---10.check different
+--7.commit</br>
+git commit -m "comments"</br>
+--8.merge branch</br>
+git merge branch name</br> 
+eg. merge dev code to maaster. get merge dev</br>
+--9.check status</br>
+git status</br>
+--10.check different</br>
 git diff
 --11.test 
 git remote -v
@@ -39,8 +39,8 @@ git remote origin git@github.com:littleblackc/study.git
 git merge --no-off -m "comments" branch
 --17.check log
 git log --graph --pretty=oneline --abbrev-commit
-18.fixed bug
-(1)git stash
+18.fixed bug</br>
+(1)git stash</br>
 (2)git stash apply + git stash drop =git stash pop
 (3)git stash list
 
