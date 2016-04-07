@@ -45,6 +45,7 @@ git log --graph --pretty=oneline --abbrev-commit
 (2)git stash apply + git stash drop =git stash pop
 (3)git stash list
 19.boris add
+20.tom add
 
 
 
