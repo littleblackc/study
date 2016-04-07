@@ -49,4 +49,20 @@ git log --graph --pretty=oneline --abbrev-commit
 20.tom add
 
 
+Merge Code
+1.checkout local branch
+git branch
+2.checkout remote branch
+git branch -a
+3.update code from branch
+git pull origin dev --- update remote dev code
+4.swith branch
+git checkout master  -- swith to local branch master
+5.update remote master code
+git pull origin master
+6.merge dev code to master
+git merge dev
+7.pull code to remote
+git push origin master
+
 
