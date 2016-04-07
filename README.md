@@ -65,4 +65,9 @@ git merge dev
 7.pull code to remote
 git push origin master
 
+Download Code
+1.init git
+git remote add upstream https://github.com/...
+2.git remote content
+git fetch upstream/master
 
