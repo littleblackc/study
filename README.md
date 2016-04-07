@@ -1,26 +1,52 @@
 # study
---1.clone code
-git clone http://github.com/littleblackc/study.git
---2.check branch
-git branch
---3.create branch
-git branch name
---4.go one branch
-git checkout name
---5.create branch and go one branch eq 3 and 4
-git checkout -b name
---6.add new file
-git add file 
---7.commit
-git commit -m "comments"
---8.merge branch
-git merge branch name 
-eg. merge dev code to maaster. get merge dev
---9.check status
-git status
---10.check different
+--1.clone code</br>
+git clone http://github.com/littleblackc/study.git</br>
+--2.check branch</br>
+git branch</br>
+git branch -a </br>
+--3.create branch</br>
+git branch name</br>
+--4.go one branch</br>
+GIT checkout <name>   </br>
+--5.create branch and go one branch eq 3 and 4</br>
+git checkout -b name</br>
+--6.add new file</br>
+git add file</br>
+--7.commit</br>
+git commit -m "comments"</br>
+--8.merge branch</br>
+git merge branch name</br> 
+eg. merge dev code to maaster. get merge dev</br>
+--9.check status</br>
+git status</br>
+--10.check different</br>
 git diff
-
+--11.test 
+git remote -v
+--12.update local code from remote
+git pull origin dev ----from branch dev
+git pull origin master ---from branch master
+--13.return previos version
+git checkout -- file
+--14.generate ssh
+(1)check exist ssh
+~/.ssh
+(2)generate the key
+ssh-keygen -t rsa -C "haiyan.xu.vip@gmail.com"
+(3)add the key
+id_rsa.pub
+--15.change url(from https to ssh)
+git remote origin git@github.com:littleblackc/study.git
+--16.merge
+git merge --no-off -m "comments" branch
+--17.check log
+git log --graph --pretty=oneline --abbrev-commit
+18.fixed bug</br>
+(1)git stash</br>
+(2)git stash apply + git stash drop =git stash pop
+(3)git stash list
+19.boris add
+20.tom add
 
 
 
