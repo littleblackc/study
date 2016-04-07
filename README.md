@@ -3,6 +3,7 @@
 git clone http://github.com/littleblackc/study.git</br>
 --2.check branch</br>
 git branch</br>
+git branch -a </br>
 --3.create branch</br>
 git branch name</br>
 --4.go one branch</br>
