@@ -6,6 +6,7 @@ git branch</br>
 --3.create branch</br>
 git branch name</br>
 --4.go one branch</br>
+GIT checkout <name>   </br>
 --5.create branch and go one branch eq 3 and 4</br>
 git checkout -b name</br>
 --6.add new file</br>
