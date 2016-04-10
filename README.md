@@ -71,5 +71,5 @@ git remote add upstream https://github.com/...
 2.git remote content
 git fetch upstream/master
 
-<h1>NPM Install
+<h1>NPM Install</h1>
 npm install -g gulp --registry=https://registry.npm.taobao.org
