@@ -73,3 +73,6 @@ git fetch upstream/master
 
 <h1>NPM Install</h1>
 npm install -g gulp --registry=https://registry.npm.taobao.org
+
+<h1>sources.list</h1>
+http://blog.163.com/ke_nux/blog/static/202700005201257104946458/
